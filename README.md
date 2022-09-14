@@ -1,2 +1,2 @@
 # PyTorch
-Day by day PyTorch implementation
+Day by Day PyTorch implementation
